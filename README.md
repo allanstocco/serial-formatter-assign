@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| Python | Flask | Azure Web App, Virtual Machine| |
+| Python | Flask | Azure Web App, Virtual Machine| allanstocco |
 
 
 # Python Flask web application
