@@ -42,3 +42,6 @@ def index():
         else:
             return render_template("code_generator.html", err="Fill the fields before submit.")
     return render_template("code_generator.html")
+
+if __name__ == '__main__':
+    app.run
